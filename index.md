@@ -7,7 +7,7 @@
 As a fresher, I was responsible for delivering a POC which was working to perfection when I left it to attend a 3 day “Hibernate” training; As I stepped out of day 1 training, I got a call from my manager asking the POC to be demoed to a prospective client the next morning. I hurried back only to notice POC failing to even launch. I panicked, slogged overnight, tried everything possible only to fail and fail again. At 3:43 am I called back on one of the several missed calls and told my dad what had happed.
 With limited understanding of what I was saying he said;
 1.	<i>If this does not work, it’s not end of the world.
-2.	<i>If it is still not working, you have not tried everything. 
+2.	If it is still not working, you have not tried everything. </i> <br>
 If one pulled my confidence sock up, other motivated.
 These statements could have come from anyone, anytime. But there was a difference; I interpreted every word (actually said in Kannada) to a deep meaning, the order in which they were told , the care in the tone and slightest of hope while conveying that his son will crack this made a significant impact.
 The POC worked, we did not demo – that is another story to tell.
