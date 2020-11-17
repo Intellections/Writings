@@ -2,7 +2,7 @@
 
 <H2> <center>Common struggles of an uncommon man </center></H2>
 
-<body><p> <h3>A father’s success begins at his son’s first failure</h1>
+<body><p> <h3>A father’s success begins at his son’s first failure</h3>
   
 As a fresher, I was responsible for delivering a POC which was working to perfection when I left it to attend a 3 day “Hibernate” training; As I stepped out of day 1 training, I got a call from my manager asking the POC to be demoed to a prospective client the next morning. I hurried back only to notice POC failing to even launch. I panicked, slogged overnight, tried everything possible only to fail and fail again. At 3:43 am I called back on one of the several missed calls and told my dad what had happed.
 With limited understanding of what I was saying he said;
